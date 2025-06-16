@@ -1,0 +1,24 @@
+{
+  "name": "geminiai-terminal",
+  "version": "1.0.0",
+  "description": "GeminiAI to terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WelberthyGustavo/GeminiAi-Terminal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WelberthyGustavo/GeminiAi-Terminal/issues"
+  },
+  "homepage": "https://github.com/WelberthyGustavo/GeminiAi-Terminal#readme",
+  "dependencies": {
+    "@google/genai": "^1.5.1",
+    "dotenv": "^16.5.0"
+  }
+}
